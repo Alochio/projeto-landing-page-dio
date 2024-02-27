@@ -1,6 +1,6 @@
 # Trilha de CSS - Bootcamp DIO
 
-Este projeto foi desenvolvido como parte do Bootcamp de CSS da Digital Innovation One (DIO). Durante o bootcamp, recebi o HTML e o layout no Figma prontos e a tarefa consistia em estilizar o CSS para criar um website responsivo e profissional.
+Este projeto foi desenvolvido como parte do Bootcamp de CSS da Digital Innovation One (DIO). Durante o bootcamp, recebi o HTML e o layout no Figma prontos e a tarefa consistia em estilizar o CSS para criar um website profissional.
 
 ## Sobre o Projeto
 
